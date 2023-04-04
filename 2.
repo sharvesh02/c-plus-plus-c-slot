@@ -1,0 +1,6 @@
+#include<iostream.h>.
+void main()
+{
+long i=2500, j=3000;
+Cout<<"i+j = " i+j;
+}
