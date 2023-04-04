@@ -1,0 +1,9 @@
+a. cout<< "x = "<<x;
+b. int m = 5,n = 10;
+char s='m';
+c. cin>>x>>y;
+d. cout<<\n “Name - ”<<name;
+e. cout<<"enter the value";
+cin>>x;
+f.  /* addition */ 
+z=x+y;
