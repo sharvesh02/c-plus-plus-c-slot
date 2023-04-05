@@ -1,0 +1,86 @@
+1.  What will happen when you execute the following cvde?
+#inlcude<iostream.h>
+void main()
+int i =0;
+i =400*400/400
+cout<<I;
+ans - errors - 
+after void main no {}
+line 4 - ; missing
+line 5 - I is capital so it wont print.
+
+
+2. Identify the error in the following program_
+Include<iostrearn..h>
+void main()
+ {
+Int num[] ={1,2,3,4,5,6,7};
+nurn [1]	=[1] num ?cout<<”success” : cout<<"Errior";
+
+ans - 
+1. iostream.h
+
+3. identify the error in the following program. 
+#include<iostream.h>
+void main() I
+ switch(1)
+{
+defaul tt
+case 4: 
+case 5:
+break.; 
+case 1
+continue;
+case 2; case 3; break;
+i--;
+}
+}
+ans - 
+no { in line 2
+no delaration of varible
+deafault should be last line
+case 2 case 3 in different line with : and a statement 
+
+4. Identify the error in the following program.
+#include<iostream.h>
+#define pi 3.14
+ int squareArea(int &);
+int circlearea(int &) ; 
+voi d main()
+{
+int a=10;
+cout<< squareArea(A);
+cout<< circleArea(a) ;
+cout<<a<< endl ;
+}
+int squareArea(int &a)
+{
+return a *== a;
+}
+int circleArea(int &r)
+{
+return r = pi*r*r;
+)
+
+5.  Find errors, if any, in the following c++ statements.
+(a) long Boat x.;
+(b) char *cp = vp;	
+(c)	int  code=three;	 
+(d)	int *p=new;	
+(e)	int const *p=total
+(g)	coast int  array_size;
+(h)         int & nurnber = 100;
+(i) float p=2345;
+(j) int else=234;
+(k) char a=’welcome’;
+
+1.long x;
+2.vp is not declared 
+3.three is string
+4.error in the assignment 
+5.no ;
+6.error in coast
+7.& error
+8.no decimal 
+9.else error
+10.single ' ' error
